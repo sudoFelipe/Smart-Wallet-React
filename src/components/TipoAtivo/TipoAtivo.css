@@ -1,0 +1,18 @@
+.painel-tipo-ativo {
+    text-align: center;
+    padding: 32px;
+}
+
+.painel-tipo-ativo h3 {
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.painel-tipo-ativo .card {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
