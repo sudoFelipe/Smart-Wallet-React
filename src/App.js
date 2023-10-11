@@ -9,38 +9,38 @@ function App() {
   const tiposAtivo = [
     {
       nome: 'Ações',
-      corPrimaria: '#C7F9CC',
-      corSecundaria: ''
+      corPrimaria: '#57C278',
+      corSecundaria: '#D9F7E9'
     },
     {
       nome: 'Fundos Imobiliários',
-      corPrimaria: '#80ED99',
-      corSecundaria: ''
+      corPrimaria: '#82CFFA',
+      corSecundaria: '#E8F8FF'
     },
     {
       nome: 'Criptomoedas',
-      corPrimaria: '#57CC99',
-      corSecundaria: ''
+      corPrimaria: '#A6D157',
+      corSecundaria: '#F0F8E2'
     },
     {
       nome: 'Renda Fixa',
-      corPrimaria: '#38A3A5',
-      corSecundaria: '#22577A'
+      corPrimaria: '#E06B69',
+      corSecundaria: '#FDE7E8'
     },
     {
       nome: 'Tesouro Direto',
-      corPrimaria: '#90BAAD',
-      corSecundaria: ''
+      corPrimaria: '#DB6EBF',
+      corSecundaria: '#FAE9F5'
     },
     {
       nome: 'Ativos Internacionais',
-      corPrimaria: '#8AA2A9',
-      corSecundaria: ''
+      corPrimaria: '#FFBA05',
+      corSecundaria: '#FFF5D9'
     },
     {
       nome: 'BDRs',
-      corPrimaria: '#717C89',
-      corSecundaria: ''
+      corPrimaria: '#FF8A29',
+      corSecundaria: '#FFEEDF'
     }
   ]
 

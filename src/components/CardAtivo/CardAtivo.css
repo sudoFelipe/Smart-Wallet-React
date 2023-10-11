@@ -35,3 +35,11 @@
     color: #212121;
     padding: 0 16px;
 }
+
+.card-ativo .rodape h3 {
+    font-size: 14px;
+    line-height: 10px;
+    color: #212121;
+    padding: 0 16px;
+    border-bottom: none;
+}

@@ -1,6 +1,6 @@
 import './CardAtivo.css'
 
-const CardAtivo = ({ empresa, cnpj, logo, corFundo }) => {
+const CardAtivo = ({ empresa, cnpj, logo, corFundo, cotas, segmento }) => {
     return (
         <div className='card-ativo'>
             <div className='cabecalho' style={{ backgroundColor: corFundo }}>
@@ -8,7 +8,9 @@ const CardAtivo = ({ empresa, cnpj, logo, corFundo }) => {
             </div>
             <div className='rodape'>
                 <h4>{empresa}</h4>
-                <h5>{cnpj}</h5>
+                <h5>CNPJ: {cnpj}</h5>
+                <h3>Quantidade/Cotas: {cotas}</h3>
+                <h3>Segmento: {segmento}</h3>
             </div>
         </div>
     )
